@@ -19,7 +19,7 @@ ESTADO DE CARGA:
 [ 📁 ESTRUCTURA DE ALMACENAMIENTO ]
 ------------------------------------------------------------
 COVERS: https://iraked.github.io/SantiGraphics/assets/cover6/
-AUDIO:  https://xat-music5.vercel.app/assets/audio6/
+AUDIO:  https://xat-music6.vercel.app/assets/audio6/
 
 ------------------------------------------------------------
 [ 🚀 POLÍTICA DE ESCALABILIDAD ]
